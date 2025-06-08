@@ -19,14 +19,12 @@
   - 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ChristianGomez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ChristianGomez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ChristianGomez | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ChristianGomez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ChristianGomez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[Facebook]: https://www.facebook.com/gomezxcv
+[instagram]: https://www.instagram.com/ser_gomezzz/
 [linkedin]: https://www.linkedin.com/in/christian-sydney-earl-gomez-b9b399340/?trk=opento_sprofile_pfeditor
 
 <!--

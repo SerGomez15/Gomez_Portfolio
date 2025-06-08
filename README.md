@@ -8,11 +8,8 @@
   - [Database Management of Library PC ](https://github.com/SerGomez15/Library-PC-Management-Website)
 - <b>Photoshop Projects</b>
   - [ADOBE Photohop Projects](https://github.com/SerGomez15/PHOTOSHOP-Projects)
-
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Network Communications Outputs (Cisco Packet Tracer)</b>
+  - [PKT Outputs Network Communications](https://github.com/SerGomez15/Network-Communcations-Outputs)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 

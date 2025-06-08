@@ -16,7 +16,7 @@
   - [Image Classification of Common Flowers In The Philippines Using Modified EfficientNetV2S](https://github.com/SerGomez15/Deep-Learning/tree/main/Image%20Classification%20of%20Common%20Flowers%20In%20The%20Philippines%20Using%20Modified%20EfficientNetV2S)
 - <b>Research Thesis (Image Processing)</b>
   - [PAPERDOYLO: A YOLOv8 - BASED SYSTEM FOR IDENTIFYINGRECYCLABLE PAPER WASTE](https://github.com/SerGomez15/Research-Thesis-PaperDoylo-)
-  - 
+<h2>👨‍💻 Certificates:</h2>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ChristianGomez | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

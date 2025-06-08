@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christian Gomez!<br/> <br/>Programmer, SQL Database Manipulation, Image Processing, Deep Learning, </h1>
 <h2><a>Fresh Graduate with A bachelor Degree of Bachelor of Science in Computer Science in NU Laguna</a></h2>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects, Research and Outputs:</h2>
 
 - <b>Object-Oriented Programming (Intermediate Programming)</b>
   - [Practicing Java Netbeans](https://github.com/SerGomez15/JAVA-Netbeans-Programming)

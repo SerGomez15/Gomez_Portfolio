@@ -10,8 +10,8 @@
   - [ADOBE Photohop Projects](https://github.com/SerGomez15/PHOTOSHOP-Projects)
 - <b>Network Communications Outputs (Cisco Packet Tracer)</b>
   - [PKT Outputs Network Communications](https://github.com/SerGomez15/Network-Communcations-Outputs)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Python (Jupyter Lab)</b>
+  - [NLP and Deliverables outputs](https://github.com/SerGomez15/JupyterLab-Outputs)
 
 <h2>📺 Popular YouTube Videos</h2>
 

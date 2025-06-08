@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian Gomez!<br/> <br/>Programmer, SQL Database Manipulation, Image Processing, Deep Learning, </h1>
+<h1>Hi, I'm Christian Sydney Earl R. Gomez!<br/> <br/>Programmer, SQL Database Manipulation, Image Processing, Deep Learning, </h1>
 <h2><a>Fresh Graduate with A bachelor Degree of Bachelor of Science in Computer Science in NU Laguna</a></h2>
 <h2>👨‍💻 Projects, Research and Outputs:</h2>
 

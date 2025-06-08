@@ -16,7 +16,17 @@
   - [Image Classification of Common Flowers In The Philippines Using Modified EfficientNetV2S](https://github.com/SerGomez15/Deep-Learning/tree/main/Image%20Classification%20of%20Common%20Flowers%20In%20The%20Philippines%20Using%20Modified%20EfficientNetV2S)
 - <b>Research Thesis (Image Processing)</b>
   - [PAPERDOYLO: A YOLOv8 - BASED SYSTEM FOR IDENTIFYINGRECYCLABLE PAPER WASTE](https://github.com/SerGomez15/Research-Thesis-PaperDoylo-)
+    
 <h2>👨‍💻 Certificates:</h2>
+
+- <b>PCM Cosmetic Products Trading</b>
+  - [Certificate of Completion](https://github.com/SerGomez15/Certificates/blob/main/OJT%20PCM%20Cosmetic%20Products%20Trading%20Certificate/Internship%20Certificate%20of%20Completion.jpg)
+  - [Certificate of Recognition](https://github.com/SerGomez15/Certificates/blob/main/OJT%20PCM%20Cosmetic%20Products%20Trading%20Certificate/Internship%20Certificate%20of%20Recognition.jpg)
+- <b>TOEIC Certificates</b>
+  - [Listening and Reading Official Institutional Score report](https://github.com/SerGomez15/Certificates/tree/main/TOEIC%20Certificate)
+- <b>CCHEIA Certificate</b>
+  - [Certificate of Pariticipation](https://github.com/SerGomez15/Certificates/blob/main/CCHEIA%20Certificate.pdf)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ChristianGomez | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

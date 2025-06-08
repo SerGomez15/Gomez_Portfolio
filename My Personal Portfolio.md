@@ -1,8 +1,9 @@
-<h1>Hi, I'm Christian Sydney Earl R. Gomez!<br/> <br/>Programmer, SQL Database Manipulation, Image Processing, Deep Learning, </h1>
+<h1>Hi, I'm Christian Sydney Earl R. Gomez!<br/> </h1>
 
 <img src="https://github.com/SerGomez15/Gomez_Portfolio/blob/12b841581d9625cec63f6ecd2a5c399b84f23473/Christian%20Gomez%20Grad%20Pic.JPG" alt="image alt" width="280" height="400">
-
-<h2><a>Fresh Graduate with A bachelor Degree of Bachelor of Science in Computer Science in NU Laguna</a></h2>
+<h2>Java Netbeans Basic, C# .NET Development , C++ Basic
+Python Basic, PHP and HTML, SQL Database Manipulation, Image Processing, Semantic Analysis Basics, Project Research, Team Communication, Network Communication and Excel Manipulation</h2>
+<h4><a>Motivated BS Computer Science graduate with a strong foundation in software development, database management, web programming, and image processing. Proficient in Java and C# .NET development, utilizing tools like NetBeans for scalable applications, and skilled in SQL database optimization, Excel manipulation, and semantic analysis. Experienced in image processing, project research, and team collaboration, with practical communication skills. Additionally, knowledgeable in CISCO technologies for network communication.</a></h4>
 <h2>👨‍💻 Projects, Research and Outputs:</h2>
 
 - <b>Object-Oriented Programming (Intermediate Programming)</b>

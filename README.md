@@ -12,7 +12,8 @@
   - [PKT Outputs Network Communications](https://github.com/SerGomez15/Network-Communcations-Outputs)
 - <b>Python (Jupyter Lab)</b>
   - [NLP and Deliverables outputs](https://github.com/SerGomez15/JupyterLab-Outputs)
-
+- <b>Research Thesis (YOLOv8 Algorithm)</b>
+  - [PAPERDOYLO](https://github.com/SerGomez15/Research-Thesis-PaperDoylo-)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)

@@ -5,27 +5,27 @@
 - <b>Object-Oriented Programming (Intermediate Programming)</b>
   - [Practicing Java Netbeans](https://github.com/SerGomez15/JAVA-Netbeans-Programming)
 - <b>Library PC Management (PHP, HTML and SQL)</b>
-  - [Database Management of Library PC ](https://github.com/SerGomez15/Library-PC-Management-Website)
+  - [Database Management of Library PC ](https://github.com/SerGomez15/Library-PC-Management-Website.git)
 - <b>Photoshop Projects</b>
-  - [ADOBE Photohop Projects](https://github.com/SerGomez15/PHOTOSHOP-Projects)
+  - [ADOBE Photohop Projects](https://github.com/SerGomez15/PHOTOSHOP-Projects.git)
 - <b>Network Communications Outputs (Cisco Packet Tracer)</b>
-  - [PKT Outputs Network Communications](https://github.com/SerGomez15/Network-Communcations-Outputs)
+  - [PKT Outputs Network Communications](https://github.com/SerGomez15/Network-Communcations-Outputs.git)
 - <b>Python (Jupyter Lab)</b>
-  - [NLP and Deliverables outputs](https://github.com/SerGomez15/JupyterLab-Outputs)
+  - [NLP and Deliverables outputs](https://github.com/SerGomez15/JupyterLab-Outputs.git)
 - <b>Deep Learning (Jupyter Lab)</b>
-  - [Image Classification of Common Flowers In The Philippines Using Modified EfficientNetV2S](https://github.com/SerGomez15/Deep-Learning/tree/main/Image%20Classification%20of%20Common%20Flowers%20In%20The%20Philippines%20Using%20Modified%20EfficientNetV2S)
+  - [Image Classification of Common Flowers In The Philippines Using Modified EfficientNetV2S](https://github.com/SerGomez15/Deep-Learning/tree/988edfdde3f13b1bec7e2c96aa1b6a53b6ca5801/Image%20Classification%20of%20Common%20Flowers%20In%20The%20Philippines%20Using%20Modified%20EfficientNetV2S)
 - <b>Research Thesis (Image Processing)</b>
   - [PAPERDOYLO: A YOLOv8 - BASED SYSTEM FOR IDENTIFYINGRECYCLABLE PAPER WASTE](https://github.com/SerGomez15/Research-Thesis-PaperDoylo-)
     
 <h2>👨‍💻 Certificates:</h2>
 
 - <b>PCM Cosmetic Products Trading</b>
-  - [Certificate of Completion](https://github.com/SerGomez15/Certificates/blob/main/OJT%20PCM%20Cosmetic%20Products%20Trading%20Certificate/Internship%20Certificate%20of%20Completion.jpg)
-  - [Certificate of Recognition](https://github.com/SerGomez15/Certificates/blob/main/OJT%20PCM%20Cosmetic%20Products%20Trading%20Certificate/Internship%20Certificate%20of%20Recognition.jpg)
+  - [Certificate of Completion](https://github.com/SerGomez15/Certificates/blob/562288c190915f41d18249bafd4aaeff751fd0f2/OJT%20PCM%20Cosmetic%20Products%20Trading%20Certificate/Internship%20Certificate%20of%20Completion.jpg)
+  - [Certificate of Recognition](https://github.com/SerGomez15/Certificates/blob/562288c190915f41d18249bafd4aaeff751fd0f2/OJT%20PCM%20Cosmetic%20Products%20Trading%20Certificate/Internship%20Certificate%20of%20Recognition.jpg)
 - <b>TOEIC Certificates</b>
-  - [Listening and Reading Official Institutional Score report](https://github.com/SerGomez15/Certificates/tree/main/TOEIC%20Certificate)
+  - [Listening and Reading Official Institutional Score report](https://github.com/SerGomez15/Certificates/tree/562288c190915f41d18249bafd4aaeff751fd0f2/TOEIC%20Certificate)
 - <b>CCHEIA Certificate</b>
-  - [Certificate of Pariticipation](https://github.com/SerGomez15/Certificates/blob/main/CCHEIA%20Certificate.pdf)
+  - [Certificate of Pariticipation](https://github.com/SerGomez15/Certificates/blob/562288c190915f41d18249bafd4aaeff751fd0f2/CCHEIA%20Certificate.pdf)
   
 <h2> 🤳 Connect with me:</h2>
 

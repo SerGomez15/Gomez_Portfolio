@@ -12,7 +12,9 @@
   - [PKT Outputs Network Communications](https://github.com/SerGomez15/Network-Communcations-Outputs)
 - <b>Python (Jupyter Lab)</b>
   - [NLP and Deliverables outputs](https://github.com/SerGomez15/JupyterLab-Outputs)
-- <b>Research Thesis (YOLOv8 Algorithm)</b>
+- <b>Deep Learning (Jupyter Lab)</b>
+ - [Image Classification of Common Flowers In The Philippines Using Modified EfficientNetV2S](https://github.com/SerGomez15/Deep-Learning/tree/main/Image%20Classification%20of%20Common%20Flowers%20In%20The%20Philippines%20Using%20Modified%20EfficientNetV2S)
+<h2>📺 Popular YouTube Videos</h2>
   - [PAPERDOYLO](https://github.com/SerGomez15/Research-Thesis-PaperDoylo-)
 <h2>📺 Popular YouTube Videos</h2>
 

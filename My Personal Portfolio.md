@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christian Sydney Earl R. Gomez!<br/> <br/>Programmer, SQL Database Manipulation, Image Processing, Deep Learning, </h1>
 
-![image alt](https://github.com/SerGomez15/Gomez_Portfolio/blob/12b841581d9625cec63f6ecd2a5c399b84f23473/Christian%20Gomez%20Grad%20Pic.JPG)
+<img src="https://github.com/SerGomez15/Gomez_Portfolio/blob/12b841581d9625cec63f6ecd2a5c399b84f23473/Christian%20Gomez%20Grad%20Pic.JPG" alt="image alt" width="280" height="400">
 
 <h2><a>Fresh Graduate with A bachelor Degree of Bachelor of Science in Computer Science in NU Laguna</a></h2>
 <h2>👨‍💻 Projects, Research and Outputs:</h2>

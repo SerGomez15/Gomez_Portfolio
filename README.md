@@ -14,6 +14,8 @@
   - [NLP and Deliverables outputs](https://github.com/SerGomez15/JupyterLab-Outputs)
 - <b>Deep Learning (Jupyter Lab)</b>
  - [Image Classification of Common Flowers In The Philippines Using Modified EfficientNetV2S](https://github.com/SerGomez15/Deep-Learning/tree/main/Image%20Classification%20of%20Common%20Flowers%20In%20The%20Philippines%20Using%20Modified%20EfficientNetV2S)
+ - <b>Research Thesis (Image Processing)</b>
+ - [PAPERDOYLO: A YOLOv8 - BASED SYSTEM FOR IDENTIFYINGRECYCLABLE PAPER WASTE](https://github.com/SerGomez15/Research-Thesis-PaperDoylo-)
 <h2>📺 Popular YouTube Videos</h2>
   - [PAPERDOYLO](https://github.com/SerGomez15/Research-Thesis-PaperDoylo-)
 <h2>📺 Popular YouTube Videos</h2>
